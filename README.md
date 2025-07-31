@@ -1,4 +1,4 @@
-# 🧑💼 Employee Management System (Spring Boot + Thymeleaf + MySQL + Spring Security)
+#  Employee Management System (Spring Boot + Thymeleaf + MySQL + Spring Security)
 
 A full-stack Employee Management System built using **Spring Boot**, **Spring Data JPA**, **Spring Security**, **Thymeleaf**, and **MySQL** with login/registration functionality, pagination, sorting, and role-based access control.
 
@@ -101,7 +101,7 @@ src
 
 | Login | Employees Table |
 |-------|-----------------|
-| ![Login](screenshots/login.png) | ![List](screenshots/employees.png) |
+| ![login.png](..%2F..%2F..%2F..%2F..%2F..%2FDesktop%2Flogin.png) | ![Employees.png](..%2F..%2F..%2F..%2F..%2F..%2FDesktop%2FEmployees.png) |
 
 ---
 
