@@ -1,22 +1,22 @@
-# 🧑‍💼 Employee Management System (Spring Boot + Thymeleaf + MySQL + Spring Security)
+# 🧑💼 Employee Management System (Spring Boot + Thymeleaf + MySQL + Spring Security)
 
 A full-stack Employee Management System built using **Spring Boot**, **Spring Data JPA**, **Spring Security**, **Thymeleaf**, and **MySQL** with login/registration functionality, pagination, sorting, and role-based access control.
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 🔐 User Registration & Login with Spring Security
-- 👥 Employee CRUD (Create, Read, Update, Delete)
-- 📄 Pagination and Sorting
-- 🌐 Thymeleaf templating
-- 🛡 BCrypt password encoding
-- 📦 DAO Authentication Provider
-- 📊 MySQL database integration
+-  User Registration & Login with Spring Security
+-  Employee CRUD (Create, Read, Update, Delete)
+-  Pagination and Sorting
+-  Thymeleaf templating
+-  BCrypt password encoding
+-  DAO Authentication Provider
+-  MySQL database integration
 
 ---
 
-## 🏗 Technologies Used
+##  Technologies Used
 
 - Java 17
 - Spring Boot 3+
@@ -29,7 +29,7 @@ A full-stack Employee Management System built using **Spring Boot**, **Spring Da
 
 ---
 
-## 🗂 Project Structure
+##  Project Structure
 
 ```text
 src
@@ -57,7 +57,7 @@ src
 
 ---
 
-## 🛠 Setup Instructions
+##  Setup Instructions
 
 1. **Clone the repository**  
    ```bash
@@ -85,7 +85,7 @@ src
 
 ---
 
-## 🐛 Issues Faced & How We Solved Them
+##  Issues Faced & How We Solved Them
 
 | Issue | Cause | Solution |
 |------|-------|----------|
@@ -97,7 +97,7 @@ src
 
 ---
 
-## 📷 UI Preview
+##  UI Preview
 
 | Login | Employees Table |
 |-------|-----------------|
@@ -105,7 +105,7 @@ src
 
 ---
 
-## ✅ Improvements
+##  Improvements
 
 - Role-based access: Admin vs User
 - Better form validation
