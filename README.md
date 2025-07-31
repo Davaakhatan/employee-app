@@ -97,13 +97,20 @@ src
 
 ---
 
-##  UI Preview
 
-| Login | Employees Table |
-|-------|-----------------|
-| ![login.png](..%2F..%2F..%2F..%2F..%2F..%2FDesktop%2Flogin.png) | ![Employees.png](..%2F..%2F..%2F..%2F..%2F..%2FDesktop%2FEmployees.png) |
+## Screenshots
 
----
+### 1. Registration Page
+![Registration](screenshots/registration.png)
+
+### 2. Login Page
+![Login](screenshots/login.png)
+
+### 3. Employee List Dashboard
+![Dashboard](screenshots/Employees.png)
+
+### 4. Add Employee Form
+![Add Employee](screenshots/add-employee.png)
 
 ##  Improvements
 
