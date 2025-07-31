@@ -68,7 +68,7 @@ src
 2. **Configure `application.properties`**  
    Update with your DB credentials:
    ```properties
-   spring.datasource.url=jdbc:mysql://localhost:3306/library_db
+   spring.datasource.url=jdbc:mysql://localhost:3306/employee_db
    spring.datasource.username=root
    spring.datasource.password=yourpassword
    spring.jpa.hibernate.ddl-auto=update
